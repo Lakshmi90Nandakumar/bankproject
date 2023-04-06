@@ -177,6 +177,7 @@ public class ApplyDebitCard {
 		driver.findElement(By.linkText("Home")).click();
 		System.out.println("Changes");
         System.out.println("changes1");		
+        System.out.println("changes1");		
 
 		driver.close();
 		}
