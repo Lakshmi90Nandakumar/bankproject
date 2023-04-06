@@ -175,6 +175,9 @@ public class ApplyDebitCard {
 			System.out.println("Pin No is  " +pin);
 			ad.accept();
 		driver.findElement(By.linkText("Home")).click();
+		System.out.println("Changes");
+        System.out.println("changes1");		
+
 		driver.close();
 		}
 	}
